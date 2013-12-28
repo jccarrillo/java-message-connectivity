@@ -1,4 +1,4 @@
-java-messaging-connectivity
+java-message-connectivity
 ===========================
 
 Java Message Connectivity (JMC) is a Java-based messaging access technology. This technology is an API for the Java programming language that defines how a client may access a Messaging Service such as APNS and or GCM. It provides methods for sending messages to a Messaging Service.
